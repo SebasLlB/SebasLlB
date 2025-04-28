@@ -1,13 +1,13 @@
 # Personal-Portfolio
 
 ## Who am I?
-Hello! My name is Sebastian Llauce Bautista, and here's my story:
+Hello! My name is Sebastian Llauce, and here's my story:
 
-<font color = "#17f3ce">I started coding out of sheer curiosity at the **age of 15**.</font>
+I started coding out of sheer curiosity at the **age of 15**.
 
 *"Wait, isn't that too late?"*
 
-<font color = "#87fe29">I may have gotten a late start, but that doesn't stop me from learning as much I can about programming.</font>
+I may have gotten a late start, but that doesn't stop me from learning as much I can about programming.
 
 <font color = "#17c4f3">It wasn't until a year ago, at the age of 17, that I realized engineering was my passion.</font>
 
